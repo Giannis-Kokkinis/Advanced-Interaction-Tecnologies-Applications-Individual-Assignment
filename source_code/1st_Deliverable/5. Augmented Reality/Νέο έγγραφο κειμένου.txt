@@ -1,0 +1,24 @@
+import processing.video.*;
+
+
+Movie movie; 
+
+void setup() {
+  size(320, 240);
+
+  movie = new Movie(this, "C:/Users/kwsta/Documents/Processing/football.mp4");
+  
+
+ 
+  movie.loop();
+}
+
+
+void movieEvent(Movie movie) {
+  movie.read();
+}
+
+void draw() {
+ 
+  image(movie, 0, 0);
+}
