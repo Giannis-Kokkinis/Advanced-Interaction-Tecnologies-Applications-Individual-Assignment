@@ -12,6 +12,7 @@
 
 # 1st Deliverable
 - Για το πρώτο σκέλος του παραδοτέου αντεγραψα το 16-1 παράδειγμα απο το [Learning Processing, 2nd Edition](http://learningprocessing.com/examples/chp16/example-16-01-Capture).
+- ργ
 
 # 2nd Deliverable
 
