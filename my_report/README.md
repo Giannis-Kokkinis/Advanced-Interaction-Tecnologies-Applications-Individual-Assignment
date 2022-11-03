@@ -13,7 +13,7 @@
 # 1st Deliverable
 - Για το πρώτο σκέλος του παραδοτέου αντεγραψα το 16-1 παράδειγμα απο το [Learning Processing, 2nd Edition](http://learningprocessing.com/examples/chp16/example-16-01-Capture).
 - Για το δεύτερο σκέλος αντέγραψα απο εδω [Learning Processing, 2nd Edition](http://learningprocessing.com/examples/chp16/example-16-05-MovieScrub) τον κώδικα,κατεβασα ενα βιντεο 10 δευτερολεπτων και το εβαλα σε εναν κοινο φακελο data ,υστερα αντικατεστησα το σημειο που λεει movie = new Movie(this, "cat.mov") με movie = new Movie(this, "football.mp4");.
-- Για το τριτο μερος πηρα τον κωδικα απο {εδω}(http://learningprocessing.com/examples/chp15/example-15-01-drawimage),επειτα δημιουργησα {εδω}(https://www.qrcode-monkey.com/?utm_source=google_c&utm_medium=cpc&utm_campaign=&utm_content=&utm_term=qr%20monkey_p&gclid=CjwKCAjwzY2bBhB6EiwAPpUpZr4TpsKurqw59FbzSpmUXoTgLYQ4B1itfRvxZUjBORaS4A_DeWgRVxoCZ5UQAvD_BwE) 
+- Για το τριτο μερος πηρα τον κωδικα απο {εδω}(http://learningprocessing.com/examples/chp15/example-15-01-drawimage),επειτα δημιουργησα {εδω}(https://www.qrcode-monkey.com/utm_source=google_c&utm_medium=cpc&utm_campaign=&utm_content=&utm_term=qr%20monkey_p&gclid=CjwKCAjwzY2bBhB6EiwAPpUpZr4TpsKurqw59FbzSpmUXoTgLYQ4B1itfRvxZUjBORaS4A_DeWgRVxoCZ5UQAvD_BwE) 
 
 
 
