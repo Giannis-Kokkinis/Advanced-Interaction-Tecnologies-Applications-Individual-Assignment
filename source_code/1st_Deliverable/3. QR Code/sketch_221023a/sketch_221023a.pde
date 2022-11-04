@@ -20,7 +20,7 @@ void decoderEvent(Decoder decoder) {
 void keyReleased() {
   // Depending on which key is hit, do different things:
   switch (key) {
-  case 'H':link(decoder.getDecodedString());
+  case 'A':link(decoder.getDecodedString());
   break;
   }
 }
