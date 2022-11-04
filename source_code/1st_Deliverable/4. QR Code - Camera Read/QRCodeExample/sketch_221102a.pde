@@ -63,5 +63,6 @@ void keyReleased() {
     break;
     case 'g':    
     link(decoder.getDecodedString());
+    break;
   }
 } 
