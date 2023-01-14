@@ -37,15 +37,29 @@
 # Bonus 
 Αφού προμηθευτήκαμε το Kinect V1 και εγκαταστήσαμε τα libraries από τα link που είχαμε στην εκφώνηση των ασκησεων.
 
-(Kinect – Nearest Point Tracking)
+1.(Kinect – Nearest Point Tracking)
 
-Πήραμε το σκελετό από το example 9-8 και βάλαμε την class Snake από το 2o παραδοτέο και την προσαρμόσαμε ώστε να δουλεύει με την άσκηση και αλλάξαμε το χρώμα του Snake. image
-(Kinect – Background Removal)
+Πήραμε το σκελετό από το example 9-8 και βάλαμε την class Snake από το 2o παραδοτέο και την προσαρμόσαμε ώστε να δουλεύει με την άσκηση και αλλάξαμε το χρώμα του Snake. 
 
-Πήραμε το σκελετό από το Remove_Background_RGB και αντικαταστήσαμε το μαύρο background με ένα βίντεο όπως είχαμε κάνει στο 2ο παραδοτέο. Στο 2ο παραδοτέο το background removal που κάναμε δεν δούλευε καλά γιατί έπρεπε να είσαι εκτός οθόνης για μην σε εντοπίσει και σε αφαιρέσει , ενώ στην έτοιμη βιβλιοθήκη (Kinect) δεν υπάρχει αυτό το πρόβλημα και λειτουργεί καλυτέρα. image
-(Kinect – Right-Hand Tracking)
+![212174082-dc65b738-e5c2-4836-a402-6ab450a68a7e](https://user-images.githubusercontent.com/101402260/212495850-5868eccd-a08b-41ac-a1d3-d2dd7c26b194.png)
 
-Για το τελευταίο σκέλος της άσκησης πήραμε το παράδειγμα από το άρθρο και το συνδυάσαμε με το example 9-8 που είναι το Snake Tracking. imageimage
+
+
+2.(Kinect – Background Removal)
+
+Πήραμε το σκελετό από το Remove_Background_RGB και αντικαταστήσαμε το μαύρο background με ένα βίντεο όπως είχαμε κάνει στο 2ο παραδοτέο. Στο 2ο παραδοτέο το background removal που κάναμε δεν δούλευε καλά γιατί έπρεπε να είσαι εκτός οθόνης για μην σε εντοπίσει και σε αφαιρέσει , ενώ στην έτοιμη βιβλιοθήκη (Kinect) δεν υπάρχει αυτό το πρόβλημα και λειτουργεί καλυτέρα. 
+
+![212173982-5cada63b-fb48-4d72-a1a0-67a41582d4f6](https://user-images.githubusercontent.com/101402260/212495859-47d2f319-dc71-43a9-b8aa-e521eaac8230.png)
+
+
+
+3.(Kinect – Right-Hand Tracking)
+
+Για το τελευταίο σκέλος της άσκησης πήραμε το παράδειγμα από το άρθρο και το συνδυάσαμε με το example 9-8 που είναι το Snake Tracking. 
+![212173702-a318d793-5b7d-4eef-a84e-979650679c05](https://user-images.githubusercontent.com/101402260/212495873-b9625678-282e-461b-b45f-084284e5e185.png)
+
+![212173789-d79d75b7-e962-47ff-a9ee-0574682f90ed](https://user-images.githubusercontent.com/101402260/212495877-b0c3bd47-c2c3-44fd-b437-e264133fb5fb.png)
+
 
 
 # Conclusions
