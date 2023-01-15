@@ -32,6 +32,9 @@
 
 
 # 3rd Deliverable 
+Πρώτα εγκατέστησα όλα τα εργαλεία που χρειάζομαι για να τρέξει το πρόγραμμα.Έφτιαξα αρχείο data και το πέρασα στον κώδικα.Έπειτα πέρασα τις εντολές για το width και heighτ της φωτογραφίας.![Screenshot (13)](https://user-images.githubusercontent.com/101402260/212563262-8b17658e-e306-4164-b05e-121f579712d1.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/101402260/212563268-fbae44c2-05b0-4d23-af38-4618691ea1a8.png)
+
 
 
 # Bonus 
